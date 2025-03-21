@@ -1,5 +1,7 @@
+# As of 2025-03-21 development of this project has ceased.
 [![psdle](logo/4_psdle.png?raw=true)](//repod.github.io/psdle "To the website!")
 =====
+
 
 Improving everyone's favorite online download list, one loop at a time.
 
